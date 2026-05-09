@@ -99,4 +99,5 @@ DELETE /brinquedos/{id}
 
 ## 📄 Integrantes
 
-Nome - RM
+- Matheus Moya de Oliveira      RM 562822
+- Ana Carolina Pereira Fontes   RM 562145
