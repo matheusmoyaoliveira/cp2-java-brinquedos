@@ -1,0 +1,8 @@
+Checkpoint 2 - Java Advanced
+
+Integrantes:
+- Matheus Moya de Oliveira      RM 562822
+- Ana Carolina Pereira Fontes   RM 562145
+
+Repositório GitHub:
+https://github.com/matheusmoyaoliveira/cp2-java-brinquedos
